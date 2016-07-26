@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"font_face": "Fira Code",
+	"font_size": 13,
+	"ignored_packages":
+	[
+	],
+	"tab_completion": false,
+	"tab_size": 4,
+	"theme": "Oceanic Next.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
