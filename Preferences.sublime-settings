@@ -5,7 +5,7 @@
 	"ignored_packages":
 	[
 	],
-	"binary_file_patterns": [".git", "node_modules/"],
+	"binary_file_patterns": ["node_modules/"],
 	"line_padding_bottom": 2,
 	"line_padding_top": 1,
 	"tab_completion": false,
