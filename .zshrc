@@ -91,7 +91,3 @@ export ANDROID_HOME="$HOME/Android/Sdk"
 
 alias ara="sudo"
 alias s="cd ~/sandbox/"
-
-### Added by the Heroku Toolbelt
-export PATH="/usr/local/heroku/bin:$PATH"
-
