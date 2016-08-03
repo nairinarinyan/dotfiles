@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+import React, { Component } from 'react';
+
+export default class ${1} extends Component {
+    render() {
+        return (
+
+        );
+    }    
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rce</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
