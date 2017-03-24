@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontSize": 13,
+
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.useCtrlKeys": false,
+    "workbench.colorTheme": "Tomorrow Night",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0
+}
