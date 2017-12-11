@@ -1,0 +1,43 @@
+{
+    "window.zoomLevel": 2,
+
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 12.5,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.lineNumbers": "relative",
+
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Material Theme",
+    "workbench.colorCustomizations" : {
+        "editor.lineHighlightBackground": "#253238",
+        "editorLineNumber.foreground": "#828288"
+    },
+
+    "vim.useCtrlKeys": false,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["d","f"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.easymotion": true,
+    "vim.easymotionMarkerFontFamily": "Fira Code",
+    "vim.easymotionMarkerHeight": 18,
+    "vim.easymotionMarkerWidthPerChar": 8,
+
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "window.menuBarVisibility": "toggle",
+    "workbench.panel.location": "bottom",
+    "python.disablePromptForFeatures": [
+        "pylint"
+    ],
+    "editor.renderWhitespace": "all",
+    "git.enabled": false,
+    "extensions.ignoreRecommendations": false,
+}

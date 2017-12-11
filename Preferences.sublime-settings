@@ -1,15 +1,18 @@
 {
-	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
-	"font_face": "Fira Code",
-	"font_size": 13,
-	"ignored_packages":
-	[
-	],
-	"binary_file_patterns": ["node_modules/"],
-	"line_padding_bottom": 2,
-	"line_padding_top": 1,
-	"tab_completion": false,
-	"tab_size": 4,
-	"theme": "Oceanic Next.sublime-theme",
-	"translate_tabs_to_spaces": true
+    "color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+    "dpi_scale": 1.25,
+    "folder_exclude_patterns":
+    [
+        ".git",
+        "node_modules"
+    ],
+    "font_face": "Roboto Mono",
+    "font_size": 9,
+    "ignored_packages":
+    [
+    ],
+    "tab_size": 4,
+    "theme": "Boxy Solarized Dark.sublime-theme",
+    "translate_tabs_to_spaces": true
 }
+
